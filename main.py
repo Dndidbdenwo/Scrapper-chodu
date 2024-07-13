@@ -11,10 +11,10 @@ from defs import getUrl, getcards, phone
 import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
-API_ID = #api id
-API_HASH = 'Api Hash'
-BOT_TOKEN = '7397315889:AAGFhr7kQAZ_BPLHl8Puc3sf-FjPdbBlKmc'
-SEND_CHAT = '@scrapperprodex'
+API_ID = '1747534'
+API_HASH = '5a2684512006853f2e48aca9652d83eah'
+BOT_TOKEN = '7489373208:AAGG5M7IdEW1t49lPtMcbFcotPaUWjfDqq4'
+SEND_CHAT = '@lodalasssn'
 
 client = TelegramClient('session', API_ID, API_HASH)
 bot = telebot.TeleBot(BOT_TOKEN)
