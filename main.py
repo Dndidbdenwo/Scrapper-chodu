@@ -12,7 +12,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 API_ID = '1747534'
-API_HASH = '5a2684512006853f2e48aca9652d83eah'
+API_HASH = '5a2684512006853f2e48aca9652d83ea'
 BOT_TOKEN = '7489373208:AAGG5M7IdEW1t49lPtMcbFcotPaUWjfDqq4'
 SEND_CHAT = '@lodalasssn'
 
